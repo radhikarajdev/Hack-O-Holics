@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(back.jpeg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif ;
+}
+.sidebar h1{
+    color: white;
+    font-size: 80px;
+    font-weight: normal;
+    text-transform: uppercase;
+    top: 10%;
+    left: 60%;
+
+
+
+}
+.sidebar ul li{
+    padding: 10px 0;
+    list-style: none;
+    border-bottom: 1px solid saddlebrown ;
+    margin-bottom: 10px;
+
+ }
+ .x{
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
+ }
